@@ -1,3 +1,5 @@
+
+//npm install express
 const express = require('express')
 const app = express()
 const port = 3000
@@ -18,3 +20,22 @@ var http = require('http');
         res.writeHead(200, {'Content-Type': 'text/plain'});
         res.end('Hello World!');
     }).listen(8080);*/
+
+
+
+    //Promesas
+    //Pug
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //Express: manejar rutas del navegador
